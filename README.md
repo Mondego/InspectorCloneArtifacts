@@ -37,12 +37,18 @@ In summary, this package contains the following artifacts:
 
 # References
 [1] J.  Svajlenko  and  C.  K.  Roy,“Evaluating  clone  detection  tools  with bigclonebench,”in Proceedings of the 2015  IEEE  International  Conference  on  Software Maintenance and Evolution (ICSME), pp. 131–140, Sept 2015.
+
 [2] P. Wang, J. Svajlenko, Y. Wu, Y. Xu, and C. K. Roy,“Ccaligner: A token based large-gap clone detector,”in Proceedings of the 40th International Conference on Software Engineering, ICSE '18 (New York, NY, USA), pp. 1066–1077, ACM, 2018.
+
 [3] V. Saini, F. Farmahinifarahani, Y. Lu, P. Baldi, and C. V. Lopes,“Oreo: Detection of clones in the twilight zone," in Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. ESEC/FSE'18 (New York, NY, USA), pp. 354–365, ACM, 2018.
-[4] H. Sajnani, V. Saini, J. Svajlenko, C. K. Roy, and C. V. Lopes, “Sourcerercc: Scaling code clone detection to big-code", in Proceedings of the 2016 IEEE/ACM 38th
-International  Conference  on  Software  Engineering  (ICSE),  pp.  1157–1168, May 2016.
+
+[4] H. Sajnani, V. Saini, J. Svajlenko, C. K. Roy, and C. V. Lopes, “Sourcerercc: Scaling code clone detection to big-code", in Proceedings of the 2016 IEEE/ACM 38th International  Conference  on  Software  Engineering  (ICSE),  pp.  1157–1168, May 2016.
+
 [5] C.  K.  Roy  and  J.  R.  Cordy,  “Nicad:  Accurate  detection  of  near-miss intentional clones using flexible pretty-printing and code normalization," in Proceedings of the 2008 16th IEEE International Conference on Program Comprehension, pp. 172–181, June 2008.
+
 [6] J. Svajlenko and C. K. Roy, “Fast and flexible large-scale clone detection with cloneworks,”in Proceedings of the 2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C) , pp. 27–30, May 2017.
+
 [7] M. S. Uddin, C. K. Roy, and K. A. Schneider, “Simcad: An extensible and  faster  clone  detection  tool  for  large  scale  software  systems,”in Proceedings of the IEEE 21st International Conference on Program Comprehension (ICPC), pp. 236–238, IEEE, 2013.
+
 [8] N.  Göde  and  R.  Koschke,  “Incremental  clone  detection,” in Proceedings of the 13th European  Conference  on  Software  Maintenance  and  Reengineering (CSMR), pp. 219–228, IEEE, 2009.
 
