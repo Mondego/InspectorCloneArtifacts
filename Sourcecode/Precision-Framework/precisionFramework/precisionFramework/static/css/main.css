@@ -1,0 +1,128 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    #border: 1px solid black;
+}
+#content {
+    height: 100%;
+    border: 1px solid black;
+}
+.leftcode {
+    float: left;
+    width: 50%;
+    background: none;
+    height: 100%;
+    overflow: auto;
+    box-sizing: border-box;
+    #border: 1px solid black;
+}
+.rightcode {
+    float: right;
+    width: 50%;
+    background: none;
+    height: 100%;
+    overflow: auto;
+    box-sizing: border-box;
+    #border: 1px solid black;
+}
+.topdiv {
+    #clear:both;
+    position:fixed;
+    top:10%;
+    height:60%;
+    width:100%;
+    overflow: auto;
+    border: 1px solid black;
+}
+
+.bottomdiv {
+    #clear:both;
+    position:fixed;
+    bottom:0;
+    height:30%;
+    width:100%;
+    overflow: auto;
+    border: 1px solid black;
+
+}
+
+li {
+    list-style-type: none;
+    display : inline-block;
+
+}
+
+.debug {
+    border:1px solid black;
+    height: 100%;
+    width: 100%;
+    #overflow: auto;
+}
+
+.toppad {
+    #border:1px solid black;
+    height: 30%;
+    width: 100%;
+    #overflow: auto;
+    background-color: pink;
+}
+.bottompad {
+    #border:0px solid black;
+    height: 70%;
+    width: 100%;
+    #overflow: auto;
+    background-color: white;
+
+}
+.fieldWrapper{
+    #display : inline-block;
+    float: left;
+    width: 388px;
+    height: 75px;
+    margin: 10px;
+    #border: 1px solid #73AD21;
+}
+
+#id_explaination{
+    width: 388px;
+    height: 55px;
+    #border: 1px solid #73AD41;
+}
+
+.fieldWrapper label {
+        display: inline-block;
+        padding-right: 5px;
+        width: 150px;
+        text-align: left;
+    }
+
+/*#####################   NEW ADDED CLASSES #########*/
+
+
+/*    background-color: #525252;*/
+
+.centered-form{
+	margin-top: 60px;
+}
+
+.centered-form .panel{
+	background: rgba(255, 255, 255, 0.8);
+	box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    background-color: #101010;
+}

@@ -1,0 +1,12 @@
+method1_dir,method1_file,method1_startline,method1_endline,method2_dir,method2_file,method2_startline,method2_endline,judge_ids
+selected,2543855.java,93,113,selected,955867.java,504,529,V
+selected,2235486.java,648,662,selected,1484507.java,569,586,H
+selected,1490133.java,230,260,selected,2348022.java,492,530,H
+selected,1811609.java,680,749,selected,559027.java,178,259,H
+selected,2005837.java,40,186,selected,1200296.java,110,250,D
+selected,1358554.java,42,62,selected,798975.java,57,83,V;H
+selected,2093451.java,200,226,selected,2093451.java,118,145,V;H;F;D
+default,127497.java,61,117,default,84051.java,61,122,D
+default,88523.java,61,122,default,96648.java,61,117,D
+selected,2348022.java,65,188,selected,2087638.java,252,369,V;H
+selected,1232063.java,29,138,selected,34711.java,29,150,V
